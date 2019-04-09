@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FtpTest">
+    <output-path>$PROJECT_DIR$/out/artifacts/FtpTest</output-path>
+    <root id="archive" name="FtpTest.jar">
+      <element id="module-output" name="Log4jTest" />
+    </root>
+  </artifact>
+</component>
